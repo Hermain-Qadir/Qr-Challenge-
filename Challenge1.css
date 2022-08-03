@@ -1,0 +1,36 @@
+body {
+    background-color:hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+    font-weight: bold;
+    align-items: center;
+}
+h2
+{
+ 
+}
+p{
+    font-weight: 400;
+    font-size: 15px;
+}
+.hero{
+    display:flex; 
+    width: 250px;
+    justify-content: center;
+    margin: auto auto;
+    flex-direction: column;
+    padding: 13px; 
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    border-top: 200px;
+   }
+.QRimg{
+    border-radius: 10px;
+    
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 800px;
+}
